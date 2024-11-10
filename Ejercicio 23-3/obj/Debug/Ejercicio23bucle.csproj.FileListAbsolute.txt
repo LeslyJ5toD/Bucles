@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio23bucle\bin\Debug\Ejercicio23bucle.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio23bucle\bin\Debug\Ejercicio23bucle.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio23bucle\bin\Debug\Ejercicio23bucle.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio23bucle\obj\Debug\Ejercicio23bucle.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio23bucle\obj\Debug\Ejercicio23bucle.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio23bucle\obj\Debug\Ejercicio23bucle.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio23bucle\obj\Debug\Ejercicio23bucle.pdb
